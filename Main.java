@@ -3,9 +3,9 @@ package ua.com.romanmaliarchuk;
 public class Main {
 
 	public static void main(String[] args) {
-		System.out.println("Створити репозиторій на сервері");
-		System.out.println("Створити гілку");
-		System.out.println("Залити на сервер завдвння");
+		System.out.println("РЎС‚РІРѕСЂРёС‚Рё СЂРµРїРѕР·РёС‚РѕСЂС–Р№ РЅР° СЃРµСЂРІРµСЂС–");
+		System.out.println("Р”РѕР±Р°РІРёС‚Рё РіС–Р»РєСѓ");
+		System.out.println("Р—Р°Р»РёС‚Рё РЅР° СЃРµСЂРІРµСЂ Р·Р°РІРґР°РЅРЅСЏ");
 	}
 
 }
